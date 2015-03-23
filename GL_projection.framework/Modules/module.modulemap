@@ -1,0 +1,6 @@
+framework module GL_projection {
+  umbrella header "GL_projection.h"
+
+  export *
+  module * { export * }
+}
